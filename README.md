@@ -5,7 +5,7 @@ command : $npx create create-react-app [project-name]
 execute : $npm start
 # project 2
 created a vite-react with vite build tool
-command : $npm install vite@latest [project-name]
+##command : $npm install vite@latest [project-name]
 command : $cd [project-name]
 command : $npm install
  execute : $npm run dev
